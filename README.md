@@ -1,7 +1,7 @@
 # Image Colorizer
 An implementation of GAN to colorize grayscale images.
 
-Try it [here](http://imgcolor.pythonanywhere.com/).
+Try it [here](https://imgcolor.pythonanywhere.com/).
 
 **Todo:**
 
